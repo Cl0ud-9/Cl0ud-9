@@ -1,5 +1,3 @@
-### 🎵 Currently vibing to
-
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=uetc007bthd01182whs4q6g0i&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0c0c0c&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=uetc007bthd01182whs4q6g0i&redirect=true)
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/uetc007bthd01182whs4q6g0i)
@@ -76,10 +74,9 @@
 
 </details>
 
----
-
-### Activity
-
+<details>
+  <summary>Stats</summary>
+  <br />
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cl0ud-9&bg_color=000000&color=ffffff&line=ff2929&point=ffffff&area=true&hide_border=true" />
 </p>
@@ -87,3 +84,5 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Cl0ud-9&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0c0c0c&ring=c0392b&fire=c0392b&currStreakLabel=c0392b" alt="GitHub Streak Stats" />
 </p>
+
+</details>
