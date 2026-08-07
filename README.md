@@ -22,11 +22,11 @@
   <summary>Softwares & Services</summary>
 ㅤ
 
-[![Adobe](https://img.shields.io/badge/adobe-%23fa1408.svg?style=for-the-badge&logo=adobe&logoColor=white)](https://www.adobe.com/)
+[![Adobe](https://img.shields.io/badge/adobe-%23fa1408.svg?style=for-the-badge)](https://www.adobe.com/)
 [![Figma](https://img.shields.io/badge/figma-%23f25425.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Material 3](https://img.shields.io/badge/Material%203-6750a4?style=for-the-badge&logo=material%20design&logoColor=white)](https://m3.material.io/)
 
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-097dcd.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-097dcd.svg?style=for-the-badge&logo=vscodium&logoColor=white)](https://code.visualstudio.com/)
 [![Neovim](https://img.shields.io/badge/NeoVim-%234e8b3a.svg?style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=ff8100)](https://www.jetbrains.com/idea/)
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-072F41.svg?style=for-the-badge&logo=android-studio&logoColor=3DDB83)](https://developer.android.com/studio)
