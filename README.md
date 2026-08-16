@@ -82,7 +82,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Cl0ud-9&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0c0c0c&ring=c0392b&fire=c0392b&currStreakLabel=c0392b" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Cl0ud-9&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0c0c0c&ring=c0392b&fire=c0392b&currStreakLabel=c0392b" alt="GitHub Streak Stats">
 </p>
 
 </details>
