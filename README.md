@@ -3,6 +3,8 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/uetc007bthd01182whs4q6g0i)
 [![Last.fm](https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://www.last.fm/user/Cl0ud-9)
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-5C98FF?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Z3E027P5XA)
+
 <details>
   <summary>Languages & Database</summary>
 ㅤ
