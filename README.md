@@ -1,4 +1,4 @@
-![Cl0ud-9 on Last.fm](https://tidemark.cl0ud-9.workers.dev/api/now?user=Cl0ud-9&theme=terminal)
+[![Cl0ud-9 on Last.fm](https://tidemark.cl0ud-9.workers.dev/api/now?user=Cl0ud-9)](https://www.last.fm/user/Cl0ud-9)
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/uetc007bthd01182whs4q6g0i)
 [![Last.fm](https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://www.last.fm/user/Cl0ud-9)
