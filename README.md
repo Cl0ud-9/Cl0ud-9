@@ -1,4 +1,4 @@
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=uetc007bthd01182whs4q6g0i&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0c0c0c&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=uetc007bthd01182whs4q6g0i&redirect=true)
+![Cl0ud-9 on Last.fm](https://tidemark.cl0ud-9.workers.dev/api/now?user=Cl0ud-9&theme=terminal)
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/uetc007bthd01182whs4q6g0i)
 [![Last.fm](https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://www.last.fm/user/Cl0ud-9)
